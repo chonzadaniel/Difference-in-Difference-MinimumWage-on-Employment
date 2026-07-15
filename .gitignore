@@ -222,5 +222,5 @@ __marimo__/
 # notebooks
 .ipynb
 # Text files
-.txt
+requirements.txt
 
